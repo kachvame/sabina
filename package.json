@@ -1,6 +1,7 @@
 {
   "name": "sabina",
   "version": "0.1.0",
+  "license": "Unlicense",
   "private": true,
   "scripts": {
     "dev": "next dev",
